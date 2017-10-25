@@ -1,4 +1,4 @@
-# All the Databases
+# All the Databases - Step 0
 
-An attempt at a Java implementation of the [Use All the Databases](https://www.compose.com/articles/use-all-the-databases-part-1/) tutorial.   
+Empty project to be used as a starting point for the tutorial.  You should be able to checkout the project and run the appStart Gradle task to launch the application on localhost:8080/all-the-databases.      
 
